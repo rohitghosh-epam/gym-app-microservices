@@ -1,44 +1,46 @@
-# Gym Management Application
+# 🌟 **Gym Management Application** 🌟
 
-A modern Gym Management app built with a powerful tech stack for managing user profiles, workout bookings, and administrative tasks.
+Welcome to the **Gym Management Application**! This full-stack web application allows **clients**, **coaches**, and **admins** to manage profiles, workout bookings, and reports with a modern tech stack.
 
-## 🛠 Tech Stack
+---
 
-- **Frontend:**  
-  - HTML  
-  - Tailwind CSS  
-  - JavaScript (JS)  
-  - TypeScript (TS)  
-  - React.js  
+## 🛠️ **Tech Stack**
 
-- **Backend:**  
-  - Node.js  
-  - Express.js  
-  - MongoDB
+<p align="center">
+    <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5" alt="HTML5">
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript">
+    <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react" alt="React.js">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js" alt="Node.js">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB">
+</p>
 
-## 🚀 Features
+---
 
-### For Clients:
-- **Profile Management:** Create and update personal information.
-- **Workout Bookings:** Book and manage workout sessions with coaches.
-- **Active Sessions:** Track and manage current workout sessions.
+## 📌 **Key Features**
 
-### For Coaches:
-- **Manage Workouts:** Update and manage your available workout slots.
-- **Track Clients:** Monitor and interact with clients' booking schedules.
+### 🏋️‍♂️ **For Clients**:
+- **Profile Management**: Personalize your account with your details and preferences.
+- **Workout Bookings**: Book and manage workout sessions with available coaches.
+- **Track Active Sessions**: Stay updated on ongoing sessions and their progress.
 
-### For Admins:
-- **Upload Available Slots:** Manage and upload available slots for coaches.
-- **Track Progress:** View reports on client workout progress.
-- **Sales Reports:** View real-time sales and revenue data for the gym.
+### 🧑‍🏫 **For Coaches**:
+- **Workout Slot Management**: Set and manage your available slots for client bookings.
+- **Track Clients**: Monitor your clients' booked sessions and offer personalized coaching.
 
-## 📸 Screenshots
-> _Coming Soon!_
+### 👨‍💼 **For Admins**:
+- **Slot Upload**: Admins can upload available coaching slots for coaches.
+- **Progress Reports**: View detailed client progress on workouts.
+- **Sales Analytics**: Monitor and track revenue, session bookings, and other metrics.
 
-## ⚙️ Installation
+---
 
-### Clone this repository:
+## 🚀 **Getting Started**
 
+To get the project up and running locally, follow these steps:
+
+### 🔥 **Clone the Repo**:
 ```bash
-git clone https://github.com/yourusername/gym-management-app.git
-cd gym-management-app
+git clone https://github.com/rohitghosh-epam/gym-app-microservices
+cd gym-app-microservices
