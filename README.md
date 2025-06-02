@@ -68,8 +68,8 @@ Welcome to the **Gym Management Microservices Suite**! This is a robust, scalabl
 To get the project up and running locally, follow these steps:
 
 ```bash
-git clone https://github.com/yourusername/gym-management-app.git
-cd gym-management-app
+git clone https://github.com/rohit1682/gym-app-microservices.git
+cd gym-app-microservices
 ```
 
 ---
