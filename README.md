@@ -1,11 +1,9 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7B801&center=true&vCenter=true&width=700&lines=🌟+Gym+Management+Microservices+Suite+🌟;Empowering+Fitness+with+Modern+Tech!" alt="Animated Header"/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="700" alt="Animated Gym Header"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
-</p>
+<h1 align="center">🌟 Gym Management Microservices Suite 🌟</h1>
 
 ---
 
