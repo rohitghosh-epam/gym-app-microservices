@@ -1,40 +1,67 @@
-# 🌟 **Gym Management Application** 🌟
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7B801&center=true&vCenter=true&width=700&lines=🌟+Gym+Management+Microservices+Suite+🌟;Empowering+Fitness+with+Modern+Tech!" alt="Animated Header"/>
+</p>
 
-Welcome to the **Gym Management Application**! This full-stack web application allows **clients**, **coaches**, and **admins** to manage profiles, workout bookings, and reports with a modern tech stack.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+</p>
+
+---
+
+# 🏋️‍♂️ Gym Management Microservices Suite
+
+Welcome to the **Gym Management Microservices Suite**! This is a robust, scalable, and modern full-stack application designed to streamline gym operations for **clients**, **coaches**, and **admins**. Built with a microservices architecture, each service is independently deployable and highly maintainable.
+
+---
+
+## 🧩 **Microservices Overview**
+
+| Service                                                                                                | Description                                                          | Tech Stack                            |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------- |
+| <img src="https://img.icons8.com/color/48/000000/lock--v1.png" width="24"/> **Auth Service**           | Handles authentication, registration, and user security.             | Node.js, Express, MongoDB             |
+| <img src="https://img.icons8.com/color/48/000000/calendar--v1.png" width="24"/> **Booking Management** | Manages workout session bookings, slot availability, and scheduling. | Node.js, Express, MongoDB             |
+| <img src="https://img.icons8.com/color/48/000000/gym.png" width="24"/> **Gym Management**              | Core gym logic: user profiles, memberships, and gym operations.      | Node.js, Express, MongoDB             |
+| <img src="https://img.icons8.com/color/48/000000/report-card.png" width="24"/> **Reports Service**     | Generates analytics, progress reports, and sales data.               | Node.js, Express, MongoDB             |
+| <img src="https://img.icons8.com/color/48/000000/api.png" width="24"/> **API Handler**                 | API gateway for routing and aggregating requests to microservices.   | Node.js, Express, MongoDB             |
+| <img src="https://img.icons8.com/color/48/000000/react-native.png" width="24"/> **Frontend App**       | Modern, responsive web app for all user roles.                       | React, TypeScript, Tailwind CSS, Vite |
 
 ---
 
 ## 🛠️ **Tech Stack**
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5" alt="HTML5">
-    <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript">
-    <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react" alt="React.js">
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js" alt="Node.js">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB">
-    <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js">
-    <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest" alt="Jest">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 **Key Features**
+## ✨ **Key Features**
 
-### 🏋️‍♂️ **For Clients**:
-- **Profile Management**: Personalize your account with your details and preferences.
-- **Workout Bookings**: Book and manage workout sessions with available coaches.
-- **Track Active Sessions**: Stay updated on ongoing sessions and their progress.
+- **Microservices Architecture**: Each service is independently deployable and scalable.
+- **Role-Based Access**: Distinct features for clients, coaches, and admins.
+- **Modern UI/UX**: Built with React, Tailwind CSS, and Vite for a seamless experience.
+- **Robust Security**: JWT authentication, secure password hashing, and more.
+- **Analytics & Reporting**: Real-time progress and sales analytics.
+- **API Gateway**: Unified entry point for all client requests.
 
-### 🧑‍🏫 **For Coaches**:
-- **Workout Slot Management**: Set and manage your available slots for client bookings.
-- **Track Clients**: Monitor your clients' booked sessions and offer personalized coaching.
+---
 
-### 👨‍💼 **For Admins**:
-- **Slot Upload**: Admins can upload available coaching slots for coaches.
-- **Progress Reports**: View detailed client progress on workouts.
-- **Sales Analytics**: Monitor and track revenue, session bookings, and other metrics.
+## 🎬 **Live Demo Animation**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400"/>
+</p>
 
 ---
 
@@ -42,7 +69,19 @@ Welcome to the **Gym Management Application**! This full-stack web application a
 
 To get the project up and running locally, follow these steps:
 
-### 🔥 **Clone the Repo**:
 ```bash
 git clone https://github.com/yourusername/gym-management-app.git
 cd gym-management-app
+```
+
+---
+
+## 🤝 **Contributing**
+
+We welcome contributions! Please fork the repo and submit a pull request.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7B801&center=true&vCenter=true&width=700&lines=Stay+fit+%F0%9F%92%AA+;Code+strong+%F0%9F%92%BB+;Contribute+with+us!" alt="Animated Footer"/>
+</p>
