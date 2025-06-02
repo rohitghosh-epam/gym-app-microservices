@@ -14,6 +14,8 @@ Welcome to the **Gym Management Application**! This full-stack web application a
     <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react" alt="React.js">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js" alt="Node.js">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB">
+    <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js">
+    <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest" alt="Jest">
 </p>
 
 ---
@@ -42,5 +44,5 @@ To get the project up and running locally, follow these steps:
 
 ### 🔥 **Clone the Repo**:
 ```bash
-git clone https://github.com/rohitghosh-epam/gym-app-microservices
-cd gym-app-microservices
+git clone https://github.com/yourusername/gym-management-app.git
+cd gym-management-app
